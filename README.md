@@ -1,4 +1,4 @@
-# wjjnzn-crm
+# lfy-crm
 #项目业务设计图
 #主页及登录模块
 ![首页-流程图](https://user-images.githubusercontent.com/101176559/230560853-0e8eb3a2-0f88-4caa-b427-38a47c4a4a79.png)
